@@ -22,8 +22,6 @@ For example, in my current role, Patching is one of my niche's. It's something I
 - What's the process for patching critical CVE's, and how quickly are these addressed?
 - Who owns CVE patching, and how is accountability managed within x team?
 
-+ many more
-
 I suddenly realised how overwhelming some of this analysis can be, but also understand how critical it is for an organisation to address these questions effectively in order to ensure that ISMS requirements are met. This is just one of many examples of analysis I have for controls that I learned undertaking the course. However, but doing all this analysis enabled me to shift my approach from a more technical implentation of controls to a more structured process of defining and managing risk. 
 
 ## Creating my own Security Audit
