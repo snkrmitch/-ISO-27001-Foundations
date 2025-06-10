@@ -28,7 +28,7 @@ I suddenly realised how overwhelming some of this analysis can be, but also unde
 
 Now that I have completed this course, I wanted to apply some of the things I learned during the course to a "real world example" of a company and complete a security audit.
 
-You can find the project <a hrefhere
+You can find the project <a href="https://github.com/snkrmitch/PinnacleAssuranceGroupISMS">here.</a>
 
 
 
