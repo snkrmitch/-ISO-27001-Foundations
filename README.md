@@ -24,9 +24,9 @@ For example, in my current role, Patching is one of my niche's. It's something I
 
 I suddenly realised how overwhelming some of this analysis can be, but also understand how critical it is for an organisation to address these questions effectively in order to ensure that ISMS requirements are met. This is just one of many examples of analysis I have for controls that I learned undertaking the course. However, but doing all this analysis enabled me to shift my approach from a more technical implentation of controls to a more structured process of defining and managing risk. 
 
-## Creating my own Security Audit
+## Creating my own ISMS
 
-Now that I have completed this course, I wanted to apply some of the things I learned during the course to a "real world example" of a company and complete a security audit.
+Now that I have completed this course, I wanted to apply some of the things I learned during the course to a "real world example" of a company and complete an ISMS (well some of it).
 
 You can find the project <a href="https://github.com/snkrmitch/PinnacleAssuranceGroupISMS">here.</a>
 
