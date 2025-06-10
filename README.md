@@ -26,7 +26,7 @@ I suddenly realised how overwhelming some of this analysis can be, but also unde
 
 ## Creating my own ISMS
 
-Now that I have completed this course, I wanted to apply some of the things I learned during the course to a "real world example" of a company and complete an ISMS (well some of it).
+Now that I have completed this course, I wanted to apply some of the things I learnt during the course to a "real world example" of a company and complete an ISMS (well some of it).
 
 You can find the project <a href="https://github.com/snkrmitch/PinnacleAssuranceGroupISMS">here.</a>
 
